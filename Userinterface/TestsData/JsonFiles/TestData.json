@@ -1,0 +1,14 @@
+{
+  "minLengthPassword": 10,
+  "maxLengthPassword": 20,
+  "topLevelDomainMinValue": 1,
+  "topLevelDomainMaxValue": 10,
+  "amountOfInterests": 3,
+  "interestsMinValue": 1,
+  "interestsMaxValue": 19,
+  "pathToImage": "TestsData\\Images\\SampleImage.jpeg",
+  "timerStart": "00:00:00",
+  "timerIntervalInSec": 3,
+  "amountSymbolsInEmail": 10,
+  "amountSymbolsInDomain": 10
+}
